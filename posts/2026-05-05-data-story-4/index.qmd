@@ -1,0 +1,9 @@
+---
+title: "Interactive graph in Shiny"
+author: "Max Patterson"
+description: ""
+date: "2026-04-29"
+categories: []
+---
+
+In this data story I attached a video guiding the viewer through an interactive graph I made using shiny. In this app one can view the energy and water use of various academic buildings on campus to better understand their environmental footprint. <https://drive.google.com/file/d/1G-upo1pCuwuas1fGUAdCPYbW9Zjsn-8f/view?usp=share_link> (<https://github.com/pattemj0/Shiny>)[![The Dining Hall at the University of the South](Clurg.jpeg)](https://www.southernliving.com/thmb/geuMvE6j7mxFevlhBZo8YrEBAUM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/sewanee-McClurg-Hall-Rex-Hammock-flickr-56a189415f9b58b7d0c0796a.jpg)

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Portfolio of data stories</title>
+<link>https://your-website-url.example.com/</link>
+<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<description>A blog built with Quarto</description>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Tue, 05 May 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>plant data collection app</title>
+  <link>https://your-website-url.example.com/posts/2026-05-05-data-story-5/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This app allows someone doing research involving plant species richness to collect data straight into an csv file where it can be processed by R. R then compares species richness between plots showing differences in species richness between different study plots. <a href="https://github.com/pattemj0/Plant-diversity-data-collection/blob/main/README.md" class="uri">https://github.com/pattemj0/Plant-diversity-data-collection/blob/main/README.md</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://your-website-url.example.com/posts/2026-05-05-data-story-5/sprich.png" class="img-fluid figure-img"></p>
+<figcaption>An example of the plant diversity in a pasture</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/2026-05-05-data-story-5/</guid>
+  <pubDate>Tue, 05 May 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Interactive graph in Shiny</title>
+  <dc:creator>Max Patterson</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-05-data-story-4/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>In this data story I attached a video guiding the viewer through an interactive graph I made using shiny. In this app one can view the energy and water use of various academic buildings on campus to better understand their environmental footprint. <a href="https://drive.google.com/file/d/1G-upo1pCuwuas1fGUAdCPYbW9Zjsn-8f/view?usp=share_link" class="uri">https://drive.google.com/file/d/1G-upo1pCuwuas1fGUAdCPYbW9Zjsn-8f/view?usp=share_link</a> (<a href="https://github.com/pattemj0/Shiny" class="uri">https://github.com/pattemj0/Shiny</a>)<a href="https://www.southernliving.com/thmb/geuMvE6j7mxFevlhBZo8YrEBAUM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/sewanee-McClurg-Hall-Rex-Hammock-flickr-56a189415f9b58b7d0c0796a.jpg"><img src="https://your-website-url.example.com/posts/2026-05-05-data-story-4/Clurg.jpeg" class="img-fluid" alt="The Dining Hall at the University of the South"></a></p>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/2026-05-05-data-story-4/</guid>
+  <pubDate>Wed, 29 Apr 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Case studies of Tennessee bird species in decline</title>
+  <dc:creator>Max Patterson</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-05-data-story-3/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>In this bookdown document I explore the status of several species of birds native to Tennessee that are in decline including the Red-headed Woodpecker, the Cerulean Warbler, The Golden-winged Warbler, and the Whip-poor-will. Each bird faces a unique set of challenges causing their decline. This page shows how issues from the other side of the world like deforestation in South America have a large effect on our own ecosystems and species we interact with daily. <a href="https://pattemj0.github.io/Datastory3/" class="uri">https://pattemj0.github.io/Datastory3/</a> (<a href="https://github.com/pattemj0/Datastory3" class="uri">https://github.com/pattemj0/Datastory3</a>)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="http://www.tringa.org/images/8969_Cerulean_Warbler_04-24-2015_1.jpg"><img src="https://your-website-url.example.com/posts/2026-05-05-data-story-3/Cerulean.jpeg" class="img-fluid figure-img"></a></p>
+<figcaption>A Cerulean Warbler</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/2026-05-05-data-story-3/</guid>
+  <pubDate>Tue, 21 Apr 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>A comparison of farms on the Cumberland Plateau</title>
+  <dc:creator>Max Patterson</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-05-data-story-2/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>In this data story I explore the differences between soil organic carbon, soil aggregate stability, soil nutrients, and plant diversity on three farms on the Cumberland Plateau. The project aims to see the impacts of different agricultural practices on the landscape. <a href="https://pattemj0.github.io/Comparison-of-Plateau-Farms/" class="uri">https://pattemj0.github.io/Comparison-of-Plateau-Farms/</a> (<a href="https://github.com/pattemj0/Comparison-of-Plateau-Farms" class="uri">https://github.com/pattemj0/Comparison-of-Plateau-Farms</a>)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://your-website-url.example.com/posts/2026-05-05-data-story-2/images/agstabf.png" class="img-fluid figure-img"></p>
+<figcaption>Collecting a soil sample to measure aggregate stability</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/2026-05-05-data-story-2/</guid>
+  <pubDate>Tue, 03 Mar 2026 06:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Solar energy in Australia</title>
+  <dc:creator>Max Patterson</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-05-data-story-1/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>In this data story I explore the impacts of the development of solar photovoltaic energy in Australia on their CO2 emissions. This example shows how countries in the modern world can successfully transition to greener economies. <a href="https://pattemj0.github.io/Energy/" class="uri">https://pattemj0.github.io/Energy/</a> (<a href="https://github.com/pattemj0/Energy" class="uri">https://github.com/pattemj0/Energy</a>)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://your-website-url.example.com/posts/2026-05-05-data-story-1/images/Australia solar.png" class="img-fluid figure-img"></p>
+<figcaption>A graph showing the increase in solar energy in Australia in the last 25 years</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/2026-05-05-data-story-1/</guid>
+  <pubDate>Tue, 17 Feb 2026 06:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

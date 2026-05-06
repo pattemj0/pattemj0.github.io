@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About this page",
+    "section": "",
+    "text": "My name is Max Patterson and I’m a student at the University of The South in Sewanee TN. In this blog I am sharing the Github repositories I completed for a course called Data storytelling and sustainable development. Each post explores the transition towards a more sustainable future according to the sustainable development goals determined at the Rio summit in 2026."
+  },
+  {
+    "objectID": "posts/2026-05-05-data-story-1/index.html",
+    "href": "posts/2026-05-05-data-story-1/index.html",
+    "title": "Solar energy in Australia",
+    "section": "",
+    "text": "In this data story I explore the impacts of the development of solar photovoltaic energy in Australia on their CO2 emissions. This example shows how countries in the modern world can successfully transition to greener economies. https://pattemj0.github.io/Energy/ (https://github.com/pattemj0/Energy)\n\n\n\nA graph showing the increase in solar energy in Australia in the last 25 years"
+  },
+  {
+    "objectID": "posts/2026-05-05-data-story-5/index.html",
+    "href": "posts/2026-05-05-data-story-5/index.html",
+    "title": "plant data collection app",
+    "section": "",
+    "text": "This app allows someone doing research involving plant species richness to collect data straight into an csv file where it can be processed by R. R then compares species richness between plots showing differences in species richness between different study plots. https://github.com/pattemj0/Plant-diversity-data-collection/blob/main/README.md\n\n\n\nAn example of the plant diversity in a pasture"
+  },
+  {
+    "objectID": "posts/2026-05-05-data-story-3/index.html",
+    "href": "posts/2026-05-05-data-story-3/index.html",
+    "title": "Case studies of Tennessee bird species in decline",
+    "section": "",
+    "text": "In this bookdown document I explore the status of several species of birds native to Tennessee that are in decline including the Red-headed Woodpecker, the Cerulean Warbler, The Golden-winged Warbler, and the Whip-poor-will. Each bird faces a unique set of challenges causing their decline. This page shows how issues from the other side of the world like deforestation in South America have a large effect on our own ecosystems and species we interact with daily. https://pattemj0.github.io/Datastory3/ (https://github.com/pattemj0/Datastory3)\n\n\n\nA Cerulean Warbler"
+  },
+  {
+    "objectID": "posts/2026-05-05-data-story-4/index.html",
+    "href": "posts/2026-05-05-data-story-4/index.html",
+    "title": "Interactive graph in Shiny",
+    "section": "",
+    "text": "In this data story I attached a video guiding the viewer through an interactive graph I made using shiny. In this app one can view the energy and water use of various academic buildings on campus to better understand their environmental footprint. https://drive.google.com/file/d/1G-upo1pCuwuas1fGUAdCPYbW9Zjsn-8f/view?usp=share_link (https://github.com/pattemj0/Shiny)"
+  },
+  {
+    "objectID": "posts/2026-05-05-data-story-2/index.html",
+    "href": "posts/2026-05-05-data-story-2/index.html",
+    "title": "A comparison of farms on the Cumberland Plateau",
+    "section": "",
+    "text": "In this data story I explore the differences between soil organic carbon, soil aggregate stability, soil nutrients, and plant diversity on three farms on the Cumberland Plateau. The project aims to see the impacts of different agricultural practices on the landscape. https://pattemj0.github.io/Comparison-of-Plateau-Farms/ (https://github.com/pattemj0/Comparison-of-Plateau-Farms)\n\n\n\nCollecting a soil sample to measure aggregate stability"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "A collection of data stories on sustainability",
+    "section": "",
+    "text": "Welcome to my Github repository portfolio!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nplant data collection app\n\n\n\n\n\n\n\n\n\n\n\nMay 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive graph in Shiny\n\n\n\n\n\n\n\n\n\n\n\nApr 29, 2026\n\n\nMax Patterson\n\n\n\n\n\n\n\n\n\n\n\n\nCase studies of Tennessee bird species in decline\n\n\n\n\n\n\n\n\n\n\n\nApr 21, 2026\n\n\nMax Patterson\n\n\n\n\n\n\n\n\n\n\n\n\nA comparison of farms on the Cumberland Plateau\n\n\n\n\n\n\n\n\n\n\n\nMar 3, 2026\n\n\nMax Patterson\n\n\n\n\n\n\n\n\n\n\n\n\nSolar energy in Australia\n\n\n\n\n\n\n\n\n\n\n\nFeb 17, 2026\n\n\nMax Patterson\n\n\n\n\n\nNo matching items"
+  }
+]

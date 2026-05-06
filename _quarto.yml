@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  description: "A blog built with Quarto"
+  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
+  title: "Portfolio of data stories"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/pattemj0
+      - icon: instagram
+        href: https://instagram.com/patterson_maxulo
+format:
+  html:
+    theme: cerulean
+    css: styles.css
+
+editor: visual
+

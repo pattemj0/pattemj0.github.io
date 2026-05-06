@@ -1,0 +1,11 @@
+---
+title: "plant data collection app"
+author: ""
+description: ""
+date: "2026-05-05"
+categories: []
+---
+
+This app allows someone doing research involving plant species richness to collect data straight into an csv file where it can be processed by R. R then compares species richness between plots showing differences in species richness between different study plots. <https://github.com/pattemj0/Plant-diversity-data-collection/blob/main/README.md>
+
+![An example of the plant diversity in a pasture](sprich.png)

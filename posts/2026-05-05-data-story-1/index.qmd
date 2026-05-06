@@ -1,0 +1,11 @@
+---
+title: "Solar energy in Australia"
+author: "Max Patterson"
+description: ""
+date: "2026-02-17"
+categories: []
+---
+
+In this data story I explore the impacts of the development of solar photovoltaic energy in Australia on their CO2 emissions. This example shows how countries in the modern world can successfully transition to greener economies. <https://pattemj0.github.io/Energy/> (<https://github.com/pattemj0/Energy>)
+
+![A graph showing the increase in solar energy in Australia in the last 25 years](images/Australia solar.png)

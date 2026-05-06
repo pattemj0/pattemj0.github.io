@@ -1,0 +1,18 @@
+---
+title: "About this page"
+image: range2025-53.jpg
+about:
+  template: jolla
+  links:
+    - icon: instagram
+      text: Instagram
+      href: https://instagram.com/patterson_maxulo
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/maxjpatterson
+    - icon: github
+      text: Github
+      href: https://github.com/pattemj0
+---
+
+My name is Max Patterson and I'm a student at the University of The South in Sewanee TN. In this blog I am sharing the Github repositories I completed for a course called Data storytelling and sustainable development. Each post explores the transition towards a more sustainable future according to the sustainable development goals determined at the Rio summit in 2026.
